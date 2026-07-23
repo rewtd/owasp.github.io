@@ -25,7 +25,7 @@
         "title": "OWASP Aguascalientes",
         "level": "-1",
         "type": "",
-        "region": "South America",
+        "region": "North America",
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "Mexico",
@@ -441,7 +441,7 @@
         "title": "OWASP Monterrey",
         "level": "-1",
         "type": "",
-        "region": "South America",
+        "region": "North America",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Monterrey-Chapter",
         "country": "Mexico",
@@ -4809,10 +4809,10 @@
         "title": "OWASP Diyarbak\u0131r",
         "level": "-1",
         "type": "",
-        "region": "Europe",
+        "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Diyarbakir-Chapter",
-        "country": "Turkiye",
+        "country": "Turkey",
         "meetings": 0
     },
     {
@@ -5081,10 +5081,10 @@
         "title": "OWASP Izmir",
         "level": "-1",
         "type": "",
-        "region": "Europe",
+        "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "",
-        "country": "Turkiye",
+        "country": "Turkey",
         "meetings": 0
     },
     {
@@ -7756,7 +7756,7 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Lucknow",
-        "country": "",
+        "country": "India",
         "meetings": 0
     },
     {
@@ -9504,7 +9504,7 @@
         "meetings": 0
     },
     {
-        "name": "Tunisia",
+        "name": "Tunis",
         "url": "https://owasp.org/www-chapter-tunisia/",
         "created": "2019-09-12",
         "updated": "2026-01-15",
@@ -9516,7 +9516,7 @@
         "region": "Africa",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Tunis-Meetup-Group",
-        "country": "Africa",
+        "country": "Tunisia",
         "meetings": 0
     },
     {
